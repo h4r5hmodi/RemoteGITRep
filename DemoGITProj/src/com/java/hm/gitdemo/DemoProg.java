@@ -6,8 +6,7 @@ public class DemoProg {
 		System.out.println("Hello..GIT from Dev1");
 		System.out.println("Hello..GIT from TL-1");
 
-		System.out.println("Hello..GIT from Dev1-new");
-		System.out.println("Dev1");
-		//hello.
+		ArithmeticOperation artih=new ArithmeticOperation();
+		System.out.println(artih.sum(100, 200));
 	}
 }
